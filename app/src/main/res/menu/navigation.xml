@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_football"
+        android:icon="@drawable/ic_soccer_ball_variant"
+        android:title="Футбол" />
+
+    <item
+        android:id="@+id/navigation_hockey"
+        android:icon="@drawable/ic_ice_hockey"
+        android:title="Хоккей" />
+
+    <item
+        android:id="@+id/navigation_tennis"
+        android:icon="@drawable/ic_tennis"
+        android:title="Теннис" />
+
+    <item
+        android:id="@+id/navigation_basketball"
+        android:icon="@drawable/ic_basketball"
+        android:title="Баскетбол" />
+
+    <item
+        android:id="@+id/navigation_volleyball"
+        android:icon="@drawable/ic_volleyball_ball"
+        android:title="Волейбол" />
+
+
+</menu>
